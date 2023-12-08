@@ -1,0 +1,52 @@
+{
+  "doctors":[
+  {
+    "name": "Dr.Chopper",
+    "salary": "1000",
+    "gender": "Male",
+    "age": "17",
+    "specialization": "Everything",
+    "id": 1
+  },
+  {
+    "name": "Dr.Harshith",
+    "salary": "100000",
+    "gender": "Male",
+    "age": "23",
+    "specialization": "Neuro",
+    "id": 2
+  },
+  {
+    "name": "Dr.Keerthan",
+    "salary": "200000",
+    "gender": "Male",
+    "age": "21",
+    "specialization": "Cardio",
+    "id": 3
+  },
+  {
+    "name": "Dr.Vaibhav",
+    "salary": "150000",
+    "gender": "Male",
+    "age": "22",
+    "specialization": "Blood ",
+    "id": 4
+  },
+  {
+    "name": "Dr.Aditya",
+    "salary": "150000",
+    "gender": "Male",
+    "age": "25",
+    "specialization": "Skin",
+    "id": 5
+  },
+  {
+    "name": "Dr.Roshan",
+    "salary": "175000",
+    "gender": "Male",
+    "age": "30",
+    "specialization": "Kidney",
+    "id": 6
+  }
+]
+}
